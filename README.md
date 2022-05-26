@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lexeenkov
-- 👀 I’m interested in cycling , composite enginereing , literature , cinema
+- 👀 I’m interested in cycling , data , literature and cinema
 - 🌱 I’m currently learning about SQL and Python
 - 📫 Reach me - on linkedin: @lexeenkov
 
